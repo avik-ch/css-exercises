@@ -1,0 +1,18 @@
+.odd-class {
+    background-color: rgb(230, 172, 172);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#num2ID {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.font-change {
+    font-size: 24px;
+}
+
+#num4ID {
+    background-color: rgb(127, 241, 117);
+    font-weight: bold;
+}
